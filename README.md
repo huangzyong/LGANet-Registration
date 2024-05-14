@@ -1,3 +1,3 @@
 # LGANet-Registration
 
-### The code will be uploaded here later.
+### The source code will be uploaded here later.
